@@ -1,0 +1,15 @@
+.tab {
+    width: 100%;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.tab th{
+    background-color: rgb(106, 4, 149);
+}
+
+.tab td{
+    background-color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+}

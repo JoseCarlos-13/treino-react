@@ -1,0 +1,28 @@
+.card {
+    background-color: midnightblue;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 3px solid midnightblue;
+    box-shadow: 3px 3px 3px black;
+    margin: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .content{
+    flex-grow: 1;
+    background-color: purple;
+  }
+  
+  .title{
+    background-color: darkred;
+    border-bottom: 1px solid white
+  }
+  
+  h2, h4 {
+    text-align: center;
+    color: white;
+    margin: 0px;
+    padding: 12px;
+  }

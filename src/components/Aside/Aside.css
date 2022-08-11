@@ -1,0 +1,26 @@
+#aside {
+    background-color: darkblue;
+    color: white;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: auto;
+}
+
+#aside ul li {
+    margin-left: -40px;
+    padding: 5px;
+    list-style: none;
+    border: 1px solid white;
+    background-color: rgb(79, 26, 129);
+}
+
+#aside ul li:hover {
+   background-color: blueviolet;
+   transition: 0.2s;
+}
+
+#aside ul li i {
+    color: white;
+}
